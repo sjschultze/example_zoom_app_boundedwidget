@@ -1,0 +1,47 @@
+# Automatically generated on 2021-02-21 UTC from https://codemagic.io/app/60307e99f39fee285c647b4d/settings
+# Note that this configuration is not an exact match to UI settings. Review and adjust as necessary.
+
+workflows:
+  default-workflow:
+    name: codemagic.yaml default workflow
+    max_build_duration: 60
+    environment:
+      vars:
+        APP_STORE_CONNECT_ISSUER_ID: 7f420207-5295-43ea-a262-655e83fb5716
+        APP_STORE_CONNECT_KEY_IDENTIFIER: 2X373FDJ7A
+        APP_STORE_CONNECT_PRIVATE_KEY: Encrypted(Z0FBQUFBQmdNZk1IZkdzR1pFVVZOTmJKLXdUOG9IemJfWXRNWmd1QXpleDBNdjVoVExkWF9SRkpMLTBPX1hOWUhwZ0xseHBHZzNQMHRib0xrNVZubjVVUVE5RWFRSkhSQ3cwZkJ1STVoR1dKMmxuWUNuczVqSFd4emdpTnlPa0E1SEtYYjJhUzZSOUtwTlVZa2tydHFram9URXJTcGczX3phTXFONW1RU3huY2Q4YzFuLXZ0dzhReHlIcDU4dDF4LTlWMl9QRU9Odm1EQlhlZUdkeFdTMmJiMGJuRkhERVR3ZUlMMlFhM1hHSG14U3VGTHU5bEZwb01DaEg1V0JiX0x6ZGZkQUF0RkwyUzNhRkhBV3RCTGR1VVZDT0pvTGJ2TlVHN2pPcWZTb2YtNnNYZlR5UU9Vc0FGS0NfRmdyVEF2UjRTUUNTNkItcWphT1VPcS16WnF3dmRiMFVObFA3ZzViT0hwVzRDNjY2QjlUZDRyNWJEMFdmSGNuZHJJSWlNZEZrWkJFSkdiTmw0UEdrb1d2MTV3V01WaXhXRVc2WkxwZmFLUTJFdjg1ZkNURThUR1NuemkxND0=)
+        CERTIFICATE_PRIVATE_KEY: Encrypted(Z0FBQUFBQmdNZk1Id1V1THM3Q1NYSm45R3Y1dGZWWjdFdUNZSHE5MkdyUGdtYzZrVU4waDRNaHJVbFJySUkxUGhJWE95c1FoUDdhVmpjc2h0QWs0bDlwT20tbF9qVUZ5RzZjSjdaMlBTOHZodFFBNVFWb1hsQzNXVWJ2YTFkMEJPTGdxQk5fTW1NWTg3NERXZVFqV19lcl9BZmRJSGdJN3BBdEZmWmlsenhjT0xxN1hNd1BGX25yQnVsdFhlY1lka0xnMlNTZzNVTTBZWFU2TTEzWHdzZ3ZBQS1mM1lDRXJoWDNpdzdYU1hIRmx2MTl3VlFCZlRKRXhNNVhKbm04QUtKTl9QbWZkenpKSk5qZ2o5RFhpb0lMVHlxaFVEekNJbDh0R3c2SW9XMkVhdkdqV1hGU2Y5UndtOFpXblR6SkVFb3JZd1JDbHVVT3diQTNqYXcxazcxTzRIZzhuQUoxVjRVd215YjRzOEo0U2Y4YV8zNldJblFlZ21DY2lRNjJnZFFxR1FVOUVqTnh0SkZhVjMtNW4xVXRhOGxHY2NVZXlmZG84UXdRWk1KQ1JYZnNadnV2N1N1YV85WjAtcTZ0UlJIYnZTVE91X2UwV2hnVVNLUUtEQ0tEcUdFeGZQNnJIOFNTRXVMdVRnTmxfdi1WS3BHR0gzUWVwbmtHYnplWF9MbEpoUkRUNkV5WmNsenZ0MWlCYjJ4QUprM1BOYW1Zdk5tSmZ5dW9Xc3plSDZ5UEFsT1k4ekVCZ1JRMDdLZVdiVWpUVkJnZUhtWDZUSWozSjBCQTFKRExTSThOSGJ4SnZNX0FIUjJMWFg0aHEyNmJ2a1FQMVNVLWhUOUcyRjRmWFVpV3g4U3lLel9VQkh6dEh1QzBIVm9uWkFpblZOdkd6alotN1Y0dXhUbG9zdTBfOWNtS2J5ZE92bWphcHZLQ3JTTEc0bG8xbUlXRjZ2TTNVT2J6Z0VCM1g2STZKc2NPYUd1aU1NQUtZRkNIblV4TGExekE2X2ZyandUeXhLVHpic1d1dUhzWTBacmhtT0ZMSV9zR3hDQVg3Ny1yQjhKc3RRVkxwWV9RMHBWX1h0MHo0Ny0wTWd3VGtDRW85ZmRVajl6Q25PX252WFBmbVBzal9YeXh2ZmV1VjJMTFlsRjRZbUFlZmpMZHh0akJETHZzRWdUZHVRdnBnS2tfNXNCUXN3dEd3ZHJDNTNBS3hiQl9xRFhZdHVDRVE4bUJmaWJrWEpwbnZnYVpKWFFUR205RGg2NExNNFNNcUt2OVRYbHFBaEtCSTJCLW5OaE5HSmtvS0tPVEt1M0VucEJNX1RPSl9Fb0tRQXpUdjkzc0NsRTgtbV9sdllWOG5pa1FSNWg0SUNuR2I5cHJjbG5lOEZMUEFiZU5fMS1mUm1NTDdrckxCMFRVaFlGMnJ4MFVCNm9Jb3hYR1cxREdjV3hGbjZqcDlzbDBLQUItWjRCd1RPOWhyNzFoV0ktNEZROXloQlBLUklDRVdMdTVqSkNjN0lKRUwxWVNDUy14WDhMUDNmam5xNUI0aVN6SV9nSXNxVGRJV29IazBibXd2bERvSEFwWURndnEycnBMUGt5Qk9HMkhvampKZFlaVGxrVl9OdDRsanVDYmYtYk5kSnZ5dTMwdTVhVngxckgxMHBiMjdQRE5JUVRuYWdsY081ZVZlWllHemFHZUtjcUJ0b0pHaFc1ZXE1djJESEZYX2lOMUdiLU1lc1JHUy1QWmhuSTVjWnFacnpnWEdLUnhqUjVUa3Z1QnNfdkJoeTNlWEttYnB5VThoZlcwcXdDbjYwT254cVlvOUFURzVFRXBJT01qWWx1UFlGSmZiOHJCY1UzNTZYZXZfYVRlWGVTWGdiVkQyZ3FZbHBpbW44OG5KN0txcHY3anNnc2VZc0NMbUk3SzB1UENVTU5NNFlycGZUcTkxQ1RKZmhTN2FUS1pfSkdueUwyWWtNZXNyd0l6d2lkLWUyeGlHTzllUW1wOEVYMFhtSnR2YlU2Zm4tdHl6LWlydHNDLUJKMGpiREdnVzlKVkZSRnE4ZDFGOTJxUDJadjhvSjFnNmhhUDJxVjBVUUdYR3RuUjlGZXBPVkN0MEw0RVJMX1pHX2hrS0s1VWV3bFB6MUFVQ09FTUZTeVBVZC1IWEFvOG5GVm5yaF84S0Y0XzBPLUZEY3NDbGYtT3VtLVhHb3BMTF9BTGhvOThNdGRVSlFkU0FtZmxYMWhuMWdHUXRzVUxBcUt4bDJITlpoWmozSi0tMTBNeUphMTEyWmpWZ0cxMDBreHN1LVRWVVQwVHBZVVZJMDFyZXRTYjVpc2t0bkZ4YUR6cUFKV0lxUFE4OUJrLW1yUFdJOTU2TzB4ODZpMlFZN0VWTEo5ZUt0bTZmdnVmT2NpeDRROC1DR19mRGRzbnVReEhTOTYwMDRKN1BKeHpYU2pKMmlxMW5lTFRxb0F0S0ROeDhzSzJpbUZXTmJ4c1l1TDhZR3VYUFJPQjdIN2VBa1RlejJCTXVENkwyWHoyQ09BRjB6STEyVTFQeHdWamJsZ0g1dWhDMmNKRGRaZ2pZdThHRnJkMDZBNnhQcERTVG5uUW9kTzRqTkJXd21naXZtYmZyOHJDOU5DZVdwQ1pHQUhCd01HVXlnaV94Q3B3WU9XVlNhRjJOR2lYSGJSNXpwNTYtUVRWSXdKVF92QUl2MnVnenlXNS1rUDlkcXp3SUdZMkpOTEVSQXZpXzduajM2QnpndXNpX0Y1WURudjgwWGc2T0h4TnNoenBpQmJsSUJaQnlwZEZTNWNuMmdDTGdsMk5wdkNLYjRpenFGWUZjd2lleEJkaWE3ckVoTjRiU0pMU3VsWFhYWkllZnc3NVJiajFwV2I3UFpGbWVRU1pId243R1lRbWtSTXlyUnJFT0ZGWHdybzRiYndhTlVnQWFFQTY3LTRTeTZDWnpIOEgzWTRkdDRhMzFOb3NUUzhNcGoyUE9PekxkNUpjSS1jOV9OVFZKYklZMzFjTS14SldYbDA1a2xVN1U1dFNNa1FzZ1pzZzNPbVFJd1RLUEdwUWFpLXpDMHBnWGp2cXNtLUdwYVVLT1FXUnJsMzRu)
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+    triggering:
+      events:
+        - push
+      branch_patterns:
+        - pattern: '*codemagic*'
+          include: true
+          source: true
+    scripts:
+      - cd . && flutter packages pub get
+      - find . -name "Podfile" -execdir pod install \;
+      - keychain initialize
+      - app-store-connect fetch-signing-files "$(xcode-project detect-bundle-id)"
+        --type IOS_APP_STORE --create
+      - keychain add-certificates
+      - | 
+        export LATEST_BUILD_NUMBER=$(app-store-connect get-latest-testflight-build-number '1554712302') # The argument is your application's Apple ID
+        cd ios && agvtool new-version -all $(($LATEST_BUILD_NUMBER + 1))
+      - cd . && flutter build ios --release --build-name=1.0.0 --build-number=$NEXT_BUILD_NUMBER
+        --no-codesign
+      - xcode-project use-profiles
+      - cd . && xcode-project build-ipa --workspace "ios/Runner.xcworkspace" --scheme
+        "Runner"
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+      - flutter_drive.log
+    publishing:
+      app_store_connect:
+        apple_id: steve@schultze.com
+        password: Encrypted(Z0FBQUFBQmdNZk1ITmtydE9TRGQ0STlfVjdsaXBJQ3VBN2VQeWZSczBJREV0Ujc2LWx4bTI1WHR4QzlXal84UGRfNF9JNGUyd3BrcUp5dzdtOHFQS2tpTEtwamk5ZDZBQWhwSG9wN0tpTFVBT2NVZ190YnNrc2M9)
+        
